@@ -278,7 +278,7 @@ That single DHL/FedEx delivery exception while minor  signals that logistics dat
 
 ### Conclusion
 
-This analysis provides a clear, data-driven view of Coca-Cola’s sales ecosystem across retailers, regions, and beverage brands. The results show a highly **concentrated performance structure**, where a few key players especially Walmart at the retailer level and Coca-Cola at the brand level—drive the majority of sales and profit outcomes.
+This analysis provides a clear, data-driven view of Coca-Cola’s sales ecosystem across retailers, regions, and beverage brands. The results show a highly **concentrated performance structure**, where a few key players especially Walmart at the retailer level and Coca-Cola at the brand level drive the majority of sales and profit outcomes.
 
 The data also highlights strong **seasonal patterns**, with noticeable growth spikes in mid-year and year-end periods, and predictable slowdowns in early and late Q3. At the same time, performance varies significantly by geography, with coastal states and certain regions consistently outperforming others.
 
